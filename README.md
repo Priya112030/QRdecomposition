@@ -55,7 +55,7 @@ QR_Decomposition(a)
 
 ## Output
 
-Screenshot 2025-05-06 041219.png
+![alt text](<Screenshot 2025-05-06 041219.png>)
 
 
 
